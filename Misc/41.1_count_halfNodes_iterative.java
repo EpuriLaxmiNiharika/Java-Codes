@@ -1,0 +1,1 @@
+ITERATIVE SOLUTION: while doing level order traversal check if the popped node has only 1 child

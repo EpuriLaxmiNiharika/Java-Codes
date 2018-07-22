@@ -1,0 +1,1 @@
+during level order traversal check if the popped node is leaf or not. If leaf increment leafCount
