@@ -1,0 +1,1 @@
+during any traversal check if the popped node is leaf or not. If not leaf increment nonleafCount
